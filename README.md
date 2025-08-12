@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Satwik (@SatwiK00)</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;Cloud+Enthusiast+%7C+Cybersecurity+Explorer" alt="Typing SVG" />
-</div>
 
 ---
 Hi there! I'm **Satwik**, a final-year Computer Science undergraduate at the **Vellore Institute of Technology**, specializing in **Information Security**. I'm passionate about building secure, full-stack applications and have a keen interest in **Web Development**,**Information Security** and **Data Science**.
@@ -20,8 +17,6 @@ Hi there! I'm **Satwik**, a final-year Computer Science undergraduate at the **V
 
 [![Email](https://img.shields.io/badge/Email-%23117ACA.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satwik.1228@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-63a4a1270/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatwiK00)
-[![Resume](https://img.shields.io/badge/Resume-%23666666.svg?style=for-the-badge&logo=readme&logoColor=white)](https://magenta-lezlie-60.tiiny.site)
 
 ---
 
@@ -71,11 +66,15 @@ Hi there! I'm **Satwik**, a final-year Computer Science undergraduate at the **V
 
 ## 🌟 Featured Projects
 
-| Project                                    | Description                                                                                         | Tech Stack                                                     |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 🛡️ **Secure Image Steganography Web App**    | A full-stack app for LSB steganography with AES-256 encryption and dynamic performance visualization. | `Python`, `Flask`, `JavaScript`, `NumPy`, `Pillow`, `PyCryptodome` |
-| 🌊 **Robust Digital Image Watermarking**     | A Python/OpenCV system for embedding and extracting invisible watermarks using DCT to resist noise.   | `Python`, `OpenCV`, `NumPy`, `scikit-image`                      |
-| 🌳 **Virtual Zoo**                         | An educational platform built with React.js featuring interactive quizzes on flora and fauna.         | `React.js`, `Bootstrap`, `HTML/CSS`, `JavaScript`              |
+## 🌟 Featured Projects
+
+| Project                                     | Description                                                                                                                               | Tech Stack                                                                 |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 🚗 **[Car Rental Web App](https://car-rental-rust-rho.vercel.app/)** | Full-stack React/Node.js app with MongoDB for car rental management, featuring dual user roles, real-time analytics, and JWT authentication. | `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`, `Multer`          |
+| 🔍 **Automated Pentesting Web App**         | Automated security scanning platform with Dockerized Kali Linux, Nmap, Nessus, and AI-powered vulnerability analysis using Google Gemini 2.5 Pro. | `React`, `Node.js`, `MongoDB`, `N8N`, `Docker`, `JWT`, `Google Gemini API` |
+| 🖼️ **Image Steganography Web App**          | LSB steganography tool with AES-256 encryption, batch processing, and performance visualization (PSNR, SSIM, BER) for security research. | `Flask`, `React`, `Pillow`, `NumPy`, `PyCryptodome`, `scikit-image`, `Matplotlib` |
+
+
 
 ---
 
